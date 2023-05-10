@@ -1,4 +1,5 @@
 OPTIMIZING CC's GROSS MARGIN AND REDUCING INVENTORY
+
 CC's is a prominent clothing retailer with a vast presence across the United States, offering a diverse range of products in all of its stores. However, the management team is worried about certain stores that have lower gross margins and excessive clearance inventory.
 
 The analysis was done on the actual provided data of 10 stores of CC. Prior to modelling detailed descriptive analysis was done. Further, clustering analysis was done to find the natural groups in the dataset followed by the logistic regression.
